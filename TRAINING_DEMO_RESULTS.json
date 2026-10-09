@@ -1,0 +1,17 @@
+{
+  "provenance": "SYNTHETIC SOFTWARE FIXTURES; not real-world evaluation",
+  "output": {
+    "synthetic": true,
+    "held_out_rows": 18,
+    "metrics": {
+      "intent": {
+        "accuracy": 0.5,
+        "macro_f1": 0.4851851851851852
+      },
+      "sentiment": {
+        "accuracy": 0.5555555555555556,
+        "macro_f1": 0.5
+      }
+    }
+  }
+}
